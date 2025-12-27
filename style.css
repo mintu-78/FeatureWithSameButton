@@ -47,6 +47,7 @@ body{
     font-size: 25px;
     color: rgb(255, 0, 0);
     margin-bottom: 20px;
+    font-style:normal;
 }
 
 #card button{
@@ -59,4 +60,6 @@ body{
     margin: 5px;
     cursor: pointer;
 }
+
+
 
